@@ -29,8 +29,8 @@ Use these sources:
 - GitHub Changelog: https://github.blog/changelog/
 
 Update `site/content/github-info.md` with concise,
-practical updates for readers and include source context when content comes
-from the GitHub Blog or GitHub Changelog.
+practical updates for readers and include source context when content comes from the GitHub Blog or GitHub Changelog.
+No auto-compile rule: do not run build or compile commands as part of this workflow.
 
 Open a pull request for Mona to review. 
 Use a pull request title that mentions Mona or GitHub Info. 
