@@ -10,6 +10,7 @@ safe-outputs:
     title-prefix: "[mona] "
     draft: true
     fallback-as-issue: false
+model: gpt-5.4
 tools:
   edit:
   web-fetch:
